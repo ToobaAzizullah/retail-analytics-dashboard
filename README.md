@@ -44,3 +44,23 @@ Focus marketing and promotions during weekday business hours and investigate wee
 Revenue optimization through product bundling
 Improved marketing efficiency via time-based targeting
 Geographic diversification strategy recommended
+
+ 📊 Dataset
+
+The dataset used in this project is too large to host on GitHub. You can download the source data directly from Kaggle:
+
+👉 [## 📊 Dataset
+
+The dataset used in this project is too large to host on GitHub. You can download the source data directly from Kaggle:
+
+👉 https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+### How to set it up:
+1. Download the dataset from the link above.
+2. Extract the files (if zipped).
+3. Place the data files into a folder named `data/` in the root directory of this project before running the notebook/dashboard.)
+
+ How to set it up:
+1. Download the dataset from the link above.
+2. Extract the files (if zipped).
+3. Place the data files into a folder named `data/` in the root directory of this project before running the notebook/dashboard.
